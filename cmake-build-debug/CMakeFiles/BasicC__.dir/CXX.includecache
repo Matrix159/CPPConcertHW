@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Dropbox/CLionProjects/BasicC++/Concert.cpp
+Concert.h
+F:/Dropbox/CLionProjects/BasicC++/Concert.h
+
+F:/Dropbox/CLionProjects/BasicC++/Concert.h
+string
+-
+ctime
+-
+vector
+-
+
+F:/Dropbox/CLionProjects/BasicC++/main.cpp
+iostream
+-
+Concert.h
+F:/Dropbox/CLionProjects/BasicC++/Concert.h
+iomanip
+-
+sstream
+-
+algorithm
+-
+

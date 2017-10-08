@@ -1,0 +1,3 @@
+F:/Dropbox/CLionProjects/BasicC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Dropbox/CLionProjects/BasicC++/cmake-build-debug/CMakeFiles/BasicC__.dir
+F:/Dropbox/CLionProjects/BasicC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
