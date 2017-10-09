@@ -50,8 +50,7 @@ public:
     int getDesire() const;
 
     /**
-     * Sets the desire
-     * @param desire
+     * @param desire Amount of desire for concert
      */
     void setDesire(int desire);
 
